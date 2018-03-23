@@ -26,8 +26,9 @@ module.exports = {
   /*
   ** My changes:
   */
-  router: {base: '/playground/lothar/chartviewer/dist'},
-  mode: 'spa',
+  // uncomment the next 2 lines, if you need to run this from a static web server (e.g. Bayer)
+  // router: {base: '/playground/lothar/chartviewer/dist'},
+  // mode: 'spa',
   /*
   ** Build configuration
   */
